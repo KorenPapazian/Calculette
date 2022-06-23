@@ -12,3 +12,17 @@ body {
     width: 25%;
     background-color: rgb(139, 139, 139);
 }
+
+#touches {
+    display: flex;
+    justify-content: center;
+}
+
+#nombres, #operations {
+    display: flex;
+    flex-direction: column;
+}
+
+#nombre {
+    display: flex;
+}
