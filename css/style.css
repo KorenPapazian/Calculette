@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+
+#calculette {
+    background-color: rgb(85, 207, 85);
+}
+
+#ecran {
+    width: 25%;
+    background-color: rgb(139, 139, 139);
+}
